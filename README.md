@@ -8,7 +8,7 @@ A new Flutter shopping cart project.
 
 ## Screen's
 <p float="left">
-<img src="assets/images/home_screen.png" width="300" height="800" style="float:left; padding-right:100px">
+<img src="assets/images/home_screen.png" width="350" height="700" style="float:left; padding-right:100px">
 </p>
 
 - This is a simple flutter Finance App UI Design.
